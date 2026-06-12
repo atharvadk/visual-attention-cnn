@@ -176,7 +176,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Run the notebook
-Open `main.ipynb` in **Google Colab** with T4 GPU runtime and run all cells.
+Open `Attention.ipynb` in **Google Colab** with T4 GPU runtime and run all cells.
 
 ### 3. Train from scratch
 ```python
